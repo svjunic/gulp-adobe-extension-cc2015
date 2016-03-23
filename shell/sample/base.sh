@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ## 証明書作成
-# ZXPSignCmd -selfSignedCert JP Tokyo individual sv.junic 893893893 junicpass.p12
+# ./ZXPSignCmd -selfSignedCert JP Tokyo individual sv.junic mogetaEX junicpass.p12
 
 
 ## ビルド

@@ -15,3 +15,6 @@ node_modules
 ink
 ZXPSignCmd
 junicpass.p12
+
+ink_forked_svjunic.zxp
+./ink_forked_svjunic
